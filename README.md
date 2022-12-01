@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/39229888/204969291-2805bfe3-5c5a-45f0-8904-bb759fda0ee2.gif" alt="animated" />
 </p>
 <h1 align="center">Hi 👋, I'm Prem.</h1>
-<h3 align="center">Code doesn't build = Code doesn't have bugs.</h3>
+<h3 align="center">Code doesn't have bugs = Code doesn't build.</h3>
 
 - 🌱 I’m currently learning **Flutter, C++, Java**
 
