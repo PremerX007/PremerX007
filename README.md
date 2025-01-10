@@ -27,7 +27,7 @@
   <img src="https://user-images.githubusercontent.com/39229888/204969291-2805bfe3-5c5a-45f0-8904-bb759fda0ee2.gif" alt="animated" />
 </p>
 <h1 align="center">Hi 👋, I'm Prem Bannawat</h1>
-<h3 align="center">I like backend development and Network Engineer job. <br/> I'm a tenacious person and getting a strong grip on something worthwhile and never letting go until it is done.</h3>
+<h3 align="center">I like backend development and Networking. <br/> I'm a tenacious person and getting a strong grip on something worthwhile and never letting go until it is done.</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=premerx007" alt="premerx007" /></a> </p>
 
