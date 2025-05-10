@@ -49,10 +49,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PremerX007&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PremerX007&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PremerX007&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
 
